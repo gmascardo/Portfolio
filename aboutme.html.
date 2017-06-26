@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>About Me Geline</title>
+<title>Page Title</title>
 </head>
 <body>
+<body style="background-color:courier;">
 
-<h1>Welcome!</h1>
-<p>My first paragraph.</p>
+<h1>About Geline</h1>
+<img> src=
+<p>Hello world!</p>
 
 </body>
 </html>
+
